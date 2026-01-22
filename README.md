@@ -1,12 +1,6 @@
-# Course GTK Rust
+# COURSE RUST BACKEND
 
-    - Course NC - GTK RS - Rust
+    - Course Rust - Backend
 
 
 ## Documentation
-
-    url oficial: https://gtk-rs.org/
-
-    url oficial book https://gtk-rs.org/gtk4-rs/stable/latest/book/
-
-    url oficial documentation: https://gtk-rs.org/gtk4-rs/stable/latest/docs/gtk4/
