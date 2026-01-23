@@ -1,0 +1,47 @@
+
+# GETS
+
+# Show all users (Get)
+# GET https://reqres.in/api/users?page=2
+
+# Show a user (Get)
+#GET https://reqres.in/api/users/2
+
+
+
+# POSTS
+
+# Create user (Post)
+#POST https://reqres.in/api/users
+
+#{
+#    "name": "morpheus",
+#    "job": "leader"
+#}
+
+
+
+#PUTS
+
+# Update user (Put)
+#PUT https://reqres.in/api/users/2
+
+#{
+#    "name": "morpheus",
+#    "job": "zion resident"
+#}
+
+
+# PATCH
+# Update user (Patch)
+#PATCH https://reqres.in/api/users/2
+
+#{
+#    "name": "morpheus",
+#    "job": "zion resident"
+#}
+
+
+
+# DELETE
+# DELETE https://reqres.in/api/users/2
